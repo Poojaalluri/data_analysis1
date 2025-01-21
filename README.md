@@ -34,9 +34,9 @@ Tools: Jupyter Notebook
 
 **Source:** [Kaggle]  
 
-**Size:** [9994, 21]  
+**Size:** [51290, 24] 
 
-Key Columns: Category, Region, Ship Mode, Profit, Sales  
+### **Key Columns**: Category, Region, Ship Mode, Profit, Sales  
 
 
 ### **Key Insights**  
