@@ -27,7 +27,7 @@ This project analyzes sales data to identify trends in profit margins, regional 
 ### **Technologies Used**  
 
 Languages: Python  
-Libraries: Pandas  
+Libraries: Pandas, Matplotlib 
 Tools: Jupyter Notebook  
 
 ### **Dataset**  
