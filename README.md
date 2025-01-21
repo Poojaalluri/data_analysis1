@@ -36,7 +36,9 @@ Tools: Jupyter Notebook
 
 **Size:** [51290, 24] 
 
-### **Key Columns**: Category, Region, Ship Mode, Profit, Sales  
+### **Key Columns**:
+
+Category, Region, Ship Mode, Profit, Sales  
 
 
 ### **Key Insights**  
@@ -46,5 +48,5 @@ Tools: Jupyter Notebook
 - The East region outperforms others in sales.  
 
 - Sales peak during certain months, highlighting seasonality.  
--
+
 -  Orders with same-day shipping show the lowest return rates.
